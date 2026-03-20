@@ -4,14 +4,6 @@ import joblib
 from statsmodels.tsa.arima.model import ARIMA
 import google.generativeai as genai
 import plotly.graph_objects as go
-import subprocess
-import sys
-
-# Note:
-# Previously, scikit-learn was installed at runtime using subprocess for compatibility.
-# This has been removed for best practices. All dependencies are now managed via requirements.txt.
-# Ensure required versions (e.g., scikit-learn==1.4.2) are installed before running the app.
-subprocess.run([sys.executable, "-m", "pip", "install", "scikit-learn==1.4.2"], stdout=subprocess.DEVNULL)
 
 # --- Page Configuration ---
 st.set_page_config(page_title="AI Valuation Dashboard", page_icon="💰", layout="wide")
