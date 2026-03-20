@@ -6,7 +6,7 @@
 
 ## 🌟 Live Demo
 
-👉 *(Add your deployed link here)*
+
 `https://estateaiapp.streamlit.app/`
 
 ---
