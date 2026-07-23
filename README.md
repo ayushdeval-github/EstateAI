@@ -126,8 +126,6 @@ streamlit run home.py
 You can deploy using:
 
 * ✅ **Streamlit Cloud**
-* ✅ **Hugging Face Spaces**
-
 ---
 
 ## 📊 Model Details
