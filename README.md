@@ -1,4 +1,4 @@
-# 🏡 EstateAI – AI Real Estate Valuation System
+# 🏡 EstateAI – AI Real Estate Valuation Platform
 
 🚀 **EstateAI** is an intelligent, multi-page Streamlit application that predicts property prices, analyzes market trends, and generates AI-powered investment insights for real estate decision-making.
 
